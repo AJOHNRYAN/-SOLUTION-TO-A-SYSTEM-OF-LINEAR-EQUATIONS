@@ -22,6 +22,8 @@ b = np.array([-9,4,-1])
 s = np.linalg.solve(a,b)
 print(s)
 ## Output:
+[-4.  3. -2.]
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
